@@ -76,6 +76,7 @@ print(f'Welcome to Tic-Tac-Toe')
 # Players
 player_1 = input('Enter player 1 name:\n')
 player_2 = input('Enter player 2 name:\n')
+print('\nEnter moves with row first, then column.\nExample: 1 3 will make a move on the top right corner of the board\n')
 
 # Game
 while True:
